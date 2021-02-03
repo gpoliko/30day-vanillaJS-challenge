@@ -1,2 +1,2 @@
 # 30day-vanillaJS-challenge
-Wes Bos's 30 day vanilla JavaScript challenege.
+30 day vanilla JavaScript challenege by Wes Bos.
